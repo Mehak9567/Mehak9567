@@ -1,12 +1,12 @@
-# 👩‍💻 Momina | IT Student & Aspiring Full-Stack Engineer  
+# 👩‍💻 Mehak | IT Student & Aspiring Full-Stack Engineer  
 
-Hi! I’m **Momina**, a passionate IT undergraduate with a strong interest in **software engineering, AI, and cybersecurity**.  
+Hi! I’m **Mehak**, a passionate IT undergraduate with a strong interest in **software engineering, AI, and cybersecurity**.  
 I enjoy building real-world projects, solving problems, and continuously improving my technical skills.  
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Bachelor’s in Information Technology** (currently 4th semester)  
+- 🎓 **Bachelor’s in Information Technology** (currently 5th semester)  
 - 🛡️ **Certified Ethical Hacker (CEH)**  
 - 🤖 Exploring **AI, data analysis, and full-stack development**  
 - 🌍 Aspiring to join international exchange/scholarship programs  
