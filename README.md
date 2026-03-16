@@ -6,7 +6,7 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 ---
 
 ## 🚀 About Me
-- 🎓 **Bachelor’s in Information Technology** (currently 5th semester)  
+- 🎓 **Bachelor’s in Information Technology** (currently 6th semester)  
 - 🛡️ **Certified Ethical Hacker (CEH)**  
 - 🤖 Exploring **AI, data analysis, and full-stack development**  
 - 🌍 Aspiring to join international exchange/scholarship programs  
@@ -41,7 +41,7 @@ Built a machine learning model to classify images into categories.
 ## 📫 Connect With Me
 - ✉️ Email: **mehak.shafiq01@gmail.com**  
 - 💼 LinkedIn: *(https://www.linkedin.com/in/mehak-shafiq-664023358/)*  
-- 📄 [My Resume (PDF)] (https://drive.google.com/file/d/1FdX6GyhvtLzsQc2mwKyxOcnmwAcTcreR/view?usp=sharing)
+- 📄 [My Resume (PDF)] (https://drive.google.com/file/d/1lV9PZUjK1tzk1pBAd-WLsQWEbHFWC5Ec/view?usp=drive_link)
 
 ---
 
